@@ -38,4 +38,4 @@ This graph show us the amount in kilometers that were delivered at each year.
 <img src="./images/Total_bras.png" alt="colour_bus" width="500"/>
 
 
-
+<img src="./images/Total_map.png" alt="colour_bus" width="700"/>

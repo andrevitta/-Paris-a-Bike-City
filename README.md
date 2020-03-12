@@ -15,4 +15,4 @@ How the network was developed over the years?
 What it looks like today?
 
 
-<img src="./image/Data_scrapping_flow.PNG" alt="Data flow" width="500"/>
+<img src="./image/pist_cyclale.PNG" alt="piste" width="500"/>

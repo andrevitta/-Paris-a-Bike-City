@@ -33,7 +33,7 @@ All other types like, lanes over sidewalk, against the traffice flow or just in 
 
 # Network Evolution
 
-This graph show us the amount in kilometers thta were delivered at each ear.
+This graph show us the amount in kilometers that were delivered at each year.
 
 <img src="./images/Total_bras.png" alt="colour_bus" width="500"/>
 

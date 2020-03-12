@@ -21,8 +21,21 @@ When there is a lane for bicicles shared with all other veichels
 
 * Couloirs de bus ouverts aux velo
 
+Shared lanes with buses
+
 <img src="./images/colour_bus.PNG" alt="colour_bus" width="500"/>
 
 * Autre itineraires ciclables
 
-<img src="./images/outros.PNG" alt="colour_bus" width="500"/>
+All other types like, lanes over sidewalk, against the traffice flow or just in places with no other purpose
+<img src="./images/outros.PNG" alt="outros" width="500"/>
+
+
+# Network Evolution
+
+This graph show us the amount in kilometers thta were delivered at each ear.
+
+<img src="./images/Total_bras.png" alt="colour_bus" width="500"/>
+
+
+

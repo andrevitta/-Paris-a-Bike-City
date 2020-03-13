@@ -66,3 +66,4 @@ Over 225km of cycle tracks were concluded in this period, but unfortunatelly mos
 
 Over this last period, a lot was done and althougth the "other type" was also the biggest amount overall, we can see an impresive 103km of dedicated cycle tracks including a main corridor from west-east, a North-south and one along river.
 
+<img src="./images/2015_2019_map.png" alt="colour_bus" width="700"/>

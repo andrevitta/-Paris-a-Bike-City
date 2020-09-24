@@ -8,7 +8,7 @@ After years of relying on shared bus and bike lanes to make up a significant par
 
 BUt how the bicycle network o Paris was developed over the last 15 years and how it is configured today, to answer this questions I've used the **Réseau des itinéraires cyclables** dataset from **opendata.paris.fr** and applied a few our data visualization skills to better uderstand it.
 	
-# What kind bikepaths thre are?
+# What kind bikepaths there are?
 
  * Piste Cyclables
 It is a dedicated cycle tracks with a phisical separation beteween bicicles and cars
